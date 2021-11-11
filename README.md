@@ -1,4 +1,4 @@
-# Hogwarts--Diagon-Alley
+# Hogwarts-Diagon-Alley
 
 A sample website using html and css. The webpage depicts Harrypotter's mystery store -> DIAGON ALLEY.
 "There were shops selling robes, shops selling telescopes and strange silver instruments Harry had never seen before, 
